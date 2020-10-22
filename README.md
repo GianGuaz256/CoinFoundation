@@ -12,3 +12,5 @@ Each cryptocurrency has specific information in the presentation list which will
 in more detail in the section next to the list itself.
 The project was entirely developed in English because most of the terms, if translated into Italian, are not
 make the underlying concept well, and why crypto is a heavily foreign sector.
+
+See relazione.pdf for more info 
