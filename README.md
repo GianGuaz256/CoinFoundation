@@ -1,3 +1,7 @@
+COINFOUNDATION - GUAZZO GIANMARCO - PAO PROJECT
+
+
+
 CoinFoundation is an application for investments in the world of cryptocurrencies. In addition to a list of
 major cryptocurrencies by market capitalization and importance, a calculator is made available
 for the ROI (Return of Interest) of a hypothetical investment in one of the aforementioned crypto. Each cryptocurrency has a
