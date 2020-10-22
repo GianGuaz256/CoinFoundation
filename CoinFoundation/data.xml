@@ -1,0 +1,328 @@
+<!DOCTYPE Cryptos>
+<Cryptos>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>1.820000</inflationRate>
+        <interestPerCoin>1.000000</interestPerCoin>
+        <BaseInfo>
+            <name>Bitcoin</name>
+            <symbol>BTC</symbol>
+            <description>Bitcoin uses peer-to-peer
+             technology to operate with no central
+             authority or banks; managing transactions
+             and the issuing of bitcoins is carried out 
+             collectively by the network. Bitcoin is 
+             open-source; its design is public, nobody 
+             owns or controls Bitcoin and everyone can take 
+             part. Through many of its unique properties, 
+             Bitcoin allows exciting uses that could 
+             not be covered by any previous payment system.</description>
+            <marketCap>210836243448.000000</marketCap>
+            <totalSupply>18471206.000000</totalSupply>
+            <createdOnTopOf>--</createdOnTopOf>
+            <minAmountInvestment>10000</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>2.000000</inflationRate>
+        <interestPerCoin>1.000000</interestPerCoin>
+        <BaseInfo>
+            <name>Ethereum</name>
+            <symbol>ETH</symbol>
+            <description>Ethereum is a global open source
+             platform for decentralized applications. 
+             On Ethereum, you can write code that checks
+              the digital value, works exactly as programmed, 
+              and is accessible anywhere in the world.</description>
+            <marketCap>42968880067.000000</marketCap>
+            <totalSupply>112336655.000000</totalSupply>
+            <createdOnTopOf>--</createdOnTopOf>
+            <minAmountInvestment>1500</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="StableCoin">
+        <BaseInfo>
+            <name>Tether</name>
+            <symbol>USDT</symbol>
+            <description>Tether converts cash into digital 
+            currency, to anchor or tether the value to the 
+            price of national currencies like the US dollar, 
+            the Euro, and the offshore Chinese yuan. The 
+            Tether platform is built on top of open 
+            blockchain technologies, leveraging the 
+            security and transparency that they provide.</description>
+            <marketCap>12902444228.000000</marketCap>
+            <totalSupply>12863942400.000000</totalSupply>
+            <createdOnTopOf>Bitcoin</createdOnTopOf>
+            <minAmountInvestment>0</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>4.000000</inflationRate>
+        <interestPerCoin>0.001000</interestPerCoin>
+        <BaseInfo>
+            <name>Ripple</name>
+            <symbol>XRP</symbol>
+            <description>XRP is a digital asset built
+             for payments. It is the native digital 
+             asset on the XRP Ledger—an open-source, 
+             permissionless and decentralized blockchain 
+             technology that can settle transactions in 3-5 
+             seconds. XRP can be sent directly without 
+             needing a central intermediary, making it a 
+             convenient instrument in bridging two different 
+             currencies quickly and efficiently.</description>
+            <marketCap>12420640737.000000</marketCap>
+            <totalSupply>44942589751.000000</totalSupply>
+            <createdOnTopOf>--</createdOnTopOf>
+            <minAmountInvestment>30</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>3.000000</inflationRate>
+        <interestPerCoin>0.050000</interestPerCoin>
+        <BaseInfo>
+            <name>EOS</name>
+            <symbol>EOS</symbol>
+            <description>EOS is a project by the developer 
+            who build Bitshares and the person who built 
+            Steem along with other developers. This is the 
+            third project for Dan Larrimer. Dan had a lot of 
+            success with Steem and Bitshares. EOS includes 
+            existing innovations such as blockchain, smart 
+            contracting and currency.</description>
+            <marketCap>2492850297.000000</marketCap>
+            <totalSupply>945038635.000000</totalSupply>
+            <createdOnTopOf>--</createdOnTopOf>
+            <minAmountInvestment>50</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="ERC20">
+        <feeOnToken>4.000000</feeOnToken>
+        <volatilityPercent>1.600000</volatilityPercent>
+        <BaseInfo>
+            <name>Chainlink</name>
+            <symbol>LINK</symbol>
+            <description>Your smart contracts connected 
+            to real world data, events and payments. 
+            The Chainlink network provides reliable 
+            tamper-proof inputs and outputs for complex 
+            smart contracts on any blockchain.</description>
+            <marketCap>5536599838.000000</marketCap>
+            <totalSupply>384009558.000000</totalSupply>
+            <createdOnTopOf>Ethereum</createdOnTopOf>
+            <minAmountInvestment>400</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>1.820000</inflationRate>
+        <interestPerCoin>2.000000</interestPerCoin>
+        <BaseInfo>
+            <name>Bitcoin Cash</name>
+            <symbol>BCH</symbol>
+            <description>Bitcoin Cash brings sound 
+            money to the world, fulfilling the original 
+            promise of Bitcoin as "Peer-to-Peer Electronic 
+            Cash". Merchants and users are empowered with low 
+            fees and reliable confirmations. The future 
+            shines brightly with unrestricted growth, 
+            global adoption, permissionless innovation, 
+            and decentralized development.</description>
+            <marketCap>5067114507.000000</marketCap>
+            <totalSupply>18500127.000000</totalSupply>
+            <createdOnTopOf>Bitcoin</createdOnTopOf>
+            <minAmountInvestment>2000</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="ERC20">
+        <feeOnToken>5.000000</feeOnToken>
+        <volatilityPercent>1.500000</volatilityPercent>
+        <BaseInfo>
+            <name>Polkadot</name>
+            <symbol>DOT</symbol>
+            <description>Polkadot enables cross-blockchain 
+            transfers of any type of data or asset, not just 
+            tokens. Connecting to Polkadot gives you the 
+            ability to interoperate with a wide variety of 
+            blockchains in the Polkadot network. Polkadot 
+            provides unprecedented economic scalability by 
+            enabling a common set of validators to secure 
+            multiple blockchains. Polkadot provides 
+            transactional scalability by spreading transactions 
+            across multiple parallel blockchains.</description>
+            <marketCap>4849860255.000000</marketCap>
+            <totalSupply>902354142.000000</totalSupply>
+            <createdOnTopOf>Ethereum</createdOnTopOf>
+            <minAmountInvestment>100</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="ERC20">
+        <feeOnToken>6.000000</feeOnToken>
+        <volatilityPercent>1.800000</volatilityPercent>
+        <BaseInfo>
+            <name>Binance Coin</name>
+            <symbol>BNB</symbol>
+            <description>Binance Coin is the crypto-coin 
+            issued by Binance exchange, and trades with 
+            the BNB symbol. Binance coin runs on the Ethereum 
+            blockchain with ERC 20 standard, and has a strict 
+            limit of maximum 200 million BNB tokens. 
+            The Binance coin is expected to fuel the 
+            operations of the Binance exchange and its 
+            ecosystem. It supports multiple utilities on 
+            the Binance ecosystem, which includes paying 
+            for trading fees, exchange fees, listing fees, 
+            and any other fees on the Binance exchange.</description>
+            <marketCap>4028670275.000000</marketCap>
+            <totalSupply>179883948.000000</totalSupply>
+            <createdOnTopOf>Ethereum</createdOnTopOf>
+            <minAmountInvestment>200</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="ERC20">
+        <feeOnToken>5.000000</feeOnToken>
+        <volatilityPercent>1.200000</volatilityPercent>
+        <BaseInfo>
+            <name>Crypto.com Coin</name>
+            <symbol>CRO</symbol>
+            <description>Crypto.com Coin is the crypto-coin 
+            issued by Crypto.com exchange, and trades with 
+            the BNB symbol. Crypto.com coin runs on the Ethereum 
+            blockchain with ERC 20 standard, and has a strict 
+            limit of maximum 1 billions CRO tokens. 
+            The Binance coin is expected to fuel the 
+            operations of the Crypto.com exchange and its 
+            ecosystem. It supports multiple utilities on 
+            the Crypto.com ecosystem, which includes paying 
+            for trading fees, exchange fees, listing fees, 
+            and any other fees on the Binance exchange.</description>
+            <marketCap>3016451579.000000</marketCap>
+            <totalSupply>20500456621.000000</totalSupply>
+            <createdOnTopOf>Ethereum</createdOnTopOf>
+            <minAmountInvestment>50</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>2.000000</inflationRate>
+        <interestPerCoin>0.500000</interestPerCoin>
+        <BaseInfo>
+            <name>Litecoin</name>
+            <symbol>LTC</symbol>
+            <description>Litecoin is a peer-to-peer digital 
+            currency that allows instant, near-no-cost 
+            payments to a recipient, wherever they are. 
+            Litecoin is a global, open source, fully 
+            decentralized payment network with no central 
+            authority. Mathematics guarantees the network 
+            itself by transferring sovereignty over the 
+            control of their finances to individuals. 
+            Litecoin can boast, compared to Bitcoin, a 
+            greater frequency in confirming transactions 
+            and better efficiency in data storage. </description>
+            <marketCap>3757881577.000000</marketCap>
+            <totalSupply>65318649.000000</totalSupply>
+            <createdOnTopOf>--</createdOnTopOf>
+            <minAmountInvestment>250</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>2.000000</inflationRate>
+        <interestPerCoin>0.500000</interestPerCoin>
+        <BaseInfo>
+            <name>Monero</name>
+            <symbol>XMR</symbol>
+            <description>Monero is cash for a connected world. 
+            It’s fast, private, and secure. With Monero, you 
+            are your own bank. You can spend safely, knowing 
+            that others cannot see your balances or track your 
+            activity. To use Monero, the first thing you are 
+            going to need is a wallet. Visit our Downloads 
+            page and get the right wallet for you. The Monero 
+            wallets are available for a variety of platforms 
+            and contain everything you need to use Monero 
+            immediately.</description>
+            <marketCap>1871976273.000000</marketCap>
+            <totalSupply>17720513.000000</totalSupply>
+            <createdOnTopOf>--</createdOnTopOf>
+            <minAmountInvestment>300</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>1.820000</inflationRate>
+        <interestPerCoin>1.000000</interestPerCoin>
+        <BaseInfo>
+            <name>Bitcoin Satoshi's Vision</name>
+            <symbol>BSV</symbol>
+            <description>Reflecting its mission to 
+            fulfil the vision of Bitcoin, the project 
+            name represents the “Satoshi Vision” or SV. 
+            Created at the request of leading BSV mining 
+            enterprise CoinGeek and other miners, Bitcoin 
+            SV is intended to provide a clear choice for 
+            miners and allow businesses to build applications 
+            and websites on it reliably.</description>
+            <marketCap>3533671100.000000</marketCap>
+            <totalSupply>18498608.000000</totalSupply>
+            <createdOnTopOf>Bitcoin Cash</createdOnTopOf>
+            <minAmountInvestment>1500</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="Cryptocurrency">
+        <inflationRate>5.000000</inflationRate>
+        <interestPerCoin>0.001000</interestPerCoin>
+        <BaseInfo>
+            <name>Cardano</name>
+            <symbol>ADA</symbol>
+            <description>Cardano is a blockchain platform 
+            for changemakers, innovators, and visionaries, 
+            with the tools and technologies required to 
+            create possibility for the many, as well as 
+            the few, and bring about positive global change.</description>
+            <marketCap>3517626892.000000</marketCap>
+            <totalSupply>31112484646.000000</totalSupply>
+            <createdOnTopOf>--</createdOnTopOf>
+            <minAmountInvestment>20</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="NFT">
+        <feeOnToken>0.000000</feeOnToken>
+        <volatilityPercent>0.000000</volatilityPercent>
+        <BaseInfo>
+            <name>The Architect</name>
+            <symbol>RED</symbol>
+            <description>The Architect is an NFT token 
+            describing a piece of art inside the Blockchain.</description>
+            <marketCap>1500.000000</marketCap>
+            <totalSupply>1.000000</totalSupply>
+            <createdOnTopOf>Ethereum</createdOnTopOf>
+            <minAmountInvestment>0</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="NFT">
+        <feeOnToken>0.000000</feeOnToken>
+        <volatilityPercent>0.000000</volatilityPercent>
+        <BaseInfo>
+            <name>Gaming Savage</name>
+            <symbol>GMG</symbol>
+            <description>The Gaming Savage is an NFT token 
+            describing a card of a the Savage game inside the Blockchain.</description>
+            <marketCap>1500.000000</marketCap>
+            <totalSupply>1.000000</totalSupply>
+            <createdOnTopOf>Ethereum</createdOnTopOf>
+            <minAmountInvestment>0</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+    <Crypto type="NFT">
+        <feeOnToken>0.000000</feeOnToken>
+        <volatilityPercent>0.000000</volatilityPercent>
+        <BaseInfo>
+            <name>CryptoArt</name>
+            <symbol>ART</symbol>
+            <description>The CryptoArt is an NFT token 
+            describing a piece of art inside the Blockchain.</description>
+            <marketCap>12000.000000</marketCap>
+            <totalSupply>1.000000</totalSupply>
+            <createdOnTopOf>Ethereum</createdOnTopOf>
+            <minAmountInvestment>0</minAmountInvestment>
+        </BaseInfo>
+    </Crypto>
+</Cryptos>

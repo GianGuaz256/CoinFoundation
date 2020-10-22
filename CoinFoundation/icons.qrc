@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/cryptocurrency.png</file>
+        <file>icons/erc20.png</file>
+        <file>icons/nft.png</file>
+        <file>icons/stablecoin.png</file>
+    </qresource>
+</RCC>
